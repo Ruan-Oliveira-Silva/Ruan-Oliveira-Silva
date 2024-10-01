@@ -1,5 +1,5 @@
 # 💫 About Me:
-Atualmente trabalhando como Enfermeiro.<br>Em busca de oportunidade para transição de carreira.<br>Estudante de programação Full-Stack.<br> Aprendendo Java, JavaScript e ReactJS.
+<br>Em busca de oportunidade para transição de carreira.
 
 
 ## 🌐 Socials:
